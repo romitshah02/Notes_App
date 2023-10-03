@@ -1,6 +1,6 @@
 # todo_list
 
-A new Flutter project.
+A simple flutter notes ui to create,edit and delete notes.
 
 ## Getting Started
 
